@@ -7,7 +7,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -52,7 +51,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.black26, // prev white
       body: Column(
         children: <Widget>[
           Expanded(
@@ -65,18 +64,25 @@ class _HomePageState extends State<HomePage> {
                   ),
                   Container(
                     padding: EdgeInsets.all(20),
+                    decoration: BoxDecoration(color: Colors.black54), //
                     alignment: Alignment.centerLeft,
                     child: Text(
                       userQuestion,
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 20, color: Colors.white), //
                     ),
                   ),
                   Container(
                     padding: EdgeInsets.all(20),
+                    decoration: BoxDecoration(
+                        color: Colors.black12,
+                        border: Border.all(
+                          color: Colors.blueAccent,
+                          width: 3,
+                        )), //
                     alignment: Alignment.centerRight,
                     child: Text(
                       userAnswer,
-                      style: TextStyle(fontSize: 20),
+                      style: TextStyle(fontSize: 30, color: Colors.white),
                     ),
                   ),
                 ],
