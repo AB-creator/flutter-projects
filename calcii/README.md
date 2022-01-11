@@ -4,7 +4,20 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Calcii is a mathematical calculator which performs addition, subtraction,
+multiplication division with a user friendly, clean, dark theme user interface
+Tech used: Flutter, Dart
+
+## Screenshots
+
+![img 1](https://drive.google.com/uc?export=view&id=1ZcQGvOmJ0oe1-KI9LagqpBslTRFU1ftl)
+
+
+![img 2](https://drive.google.com/uc?export=view&id=1up7ck9vM9Sdj2_mAIXvS9n33zKveR4lL)
+
+
+![img 3](https://drive.google.com/uc?export=view&id=1dPq5rNUspm-ePa-isqNax4jtvfe_Aavi)
+
 
 A few resources to get you started if this is your first Flutter project:
 
