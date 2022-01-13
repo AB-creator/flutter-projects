@@ -10,6 +10,14 @@ Tech used: Flutter, Dart
 
 ## Screenshots
 
+<p align="center">
+  <img src="https://github.com/AB-creator/flutter-projects/blob/master/calcii/calcii%20img/c1.jpg" width="256" height="455">
+  <img src="https://github.com/AB-creator/flutter-projects/blob/master/calcii/calcii%20img/c3.jpg" width="256" height="455">
+  <img src="https://github.com/AB-creator/flutter-projects/blob/master/calcii/calcii%20img/c4.jpg" width="256" height="455">
+    <img src="https://github.com/AB-creator/flutter-projects/blob/master/calcii/calcii%20img/c5.jpg" width="256" height="455">
+
+</p>
+<!-- 
 ![img 1](https://drive.google.com/uc?export=view&id=1ZcQGvOmJ0oe1-KI9LagqpBslTRFU1ftl)
 
 
@@ -18,7 +26,7 @@ Tech used: Flutter, Dart
 
 ![img 3](https://drive.google.com/uc?export=view&id=1dPq5rNUspm-ePa-isqNax4jtvfe_Aavi)
 
-
+ -->
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
